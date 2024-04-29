@@ -32,6 +32,8 @@ This page contains the sources used to create the content written within this we
 
 This page contains two headings next to each other. On the left hand side, you'll find a "Saved Information" heading where all the saved text will be displayed, and on the right hand side, you'll find a "Saved Images" heading, where all the saved images will be displayed. You will also find the menu on the top right hand side of the page.
 
+![Alt tex](https://github.com/seanzira/capstoneProject/blob/main/website/running-website-4.png)
+
 Lastly, to return to the landing page, you have to click the menu.
 
 ## Credits
