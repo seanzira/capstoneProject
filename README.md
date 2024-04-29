@@ -6,6 +6,8 @@ I've created a football website which focuses on Zinedine Zidane's career and ac
 
 There are two ways in which you (and anybody you would like to inform) can access this website. The first thing you can do is install gitHub and follow my account. Once that is done, I will grant you access to this project upon request. The second thing you can do is click on the link - https://github.com/seanzira/capstoneProject to view the contents of this task.
 
+[Alt text](https://github.com/seanzira/capstoneProject/blob/main/website/running-website-1.png)
+
 ## Usage
 
 In order to use this website correctly, you can scroll to the bottom to view all the contents of the site, and to access the other pages within the website, there is a menu on the first page of the website (as well as 2 icons on the top right hand side of the page which serve the same function) , which when hovered over will give you 3 options (pages), to select from, which are:
