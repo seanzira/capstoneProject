@@ -26,6 +26,8 @@ This webpage focuses on the author of the webpage (Sean Zira). This is shown by 
 
 This page contains the sources used to create the content written within this webpage. Below the sources, you will find a "start animation" button which fades out and fades in the "here" hyperlink. Next to that button, you'll find a like button and on the top righthand side of the page, you'll find a menu.
 
+![Alt text](https://github.com/seanzira/capstoneProject/blob/main/website/running-website-3.png)
+
 ### 3. Save for later
 
 This page contains two headings next to each other. On the left hand side, you'll find a "Saved Information" heading where all the saved text will be displayed, and on the right hand side, you'll find a "Saved Images" heading, where all the saved images will be displayed. You will also find the menu on the top right hand side of the page.
