@@ -16,7 +16,7 @@ In order to use this website correctly, you can scroll to the bottom to view all
 
 ### 1. About 
 
-This webpage focuses on the author of the webpage (Sean Zira). This is shown by the brief summary as well the photo of the author next to the summary. This page also contains a "hide/show" button, which when clicked toggles the visibility of the summary. There is also a "save for later" button which you will see throughout the webpage. This button allows you to store the information above the button for you to view later on the "save for later" page. There is also a "like" button which when clicked increments the number next to it once, to indicate that it has been liked, but when clicked again, will revert back to 0, indicating that the content above it has been unliked. The last thing to take note of on this page is the menu button located on the top righthand side of the page. This is similar to the one you would've noticed on the landing page.
+This webpage focuses on the author of the webpage (Sean Zira). This is shown by the brief summary as well the photo of the author next to the summary. This page also contains a "hide/show" button, which when clicked toggles the visibility of the summary. There is also a "save for later" button which you will see throughout the webpage. This button allows you to store the information above the button for you to view later on the "save for later" page. There is also a "like" button which when clicked increments the number next to it, once, to indicate that it has been liked, but when clicked again, will revert back to 0, indicating that the content above it has been unliked. The last thing to take note of on this page is the menu button located on the top righthand side of the page. This is similar to the one you would've noticed on the landing page.
 
 ### 2. Webpage Sources
 
@@ -30,4 +30,4 @@ Lastly, to return to the landing page, you have to click the menu.
 
 ## Credits
 
-The author of this website has been referenced in the "about author" page. The other websites that have been used and mentioned on the "webpage sources" include an article on the invention of soccer by "Jobs In Football", an article on "=the world's all-time greatest footballer by "Naratorn Wirunhchatapant" and an article by OneFootball on Zinedine Zidane's career stats.
+The author of this website has been referenced to in the "about author" page. The other websites that have been used and mentioned on the "webpage sources" include an article on the invention of soccer by "Jobs In Football", an article on the world's all-time greatest footballers by "Naratorn Wirunhchatapant" and an article by OneFootball on Zinedine Zidane's career stats.
