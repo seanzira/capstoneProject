@@ -4,7 +4,7 @@ I've created a football website which focuses on Zinedine Zidane's career and ac
 
 ## How to access the project
 
-There are two ways in which you (and anybody you would like to inform) can access this website. The first thing you can do is install gitHub and follow my account. Once that is done, I will grant you access to this project upon request. The second thing you can do is click on the link - https://github.com/seanzira/capstoneProject to view the contents of this task.
+There are two ways in which you (and anybody you would like to inform) can access this website. The first thing you can do is install gitHub and follow my account. Once that is done, I will grant you access to this project upon request. The second thing you can do is click on the link - https://seanzira.github.io/capstoneProject/ to view the contents of this task.
 
 ![Alt text](https://github.com/seanzira/capstoneProject/blob/main/website/running-website-1.png)
 
